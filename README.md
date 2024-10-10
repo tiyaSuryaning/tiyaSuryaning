@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiyaSuryaning
+- 👋 Hi, I’m Tyas
 - 👀 I’m interested in makin app from Python
 - 🌱 I’m currently learning basic Python and GUI design using Figma
 - 💞️ I’m looking to collaborate on any small project using Python
